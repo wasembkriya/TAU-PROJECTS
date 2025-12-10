@@ -1,0 +1,5 @@
+
+
+
+
+Real-Time Face Tracking Camera SystemThis project implements a fully automated camera tracking system designed to keep a person's face centered within the video frame. The core functionality relies on the OpenCV library within a Python script (face_tracking.py) to perform real-time face detection. Upon successfully identifying a face, the Python script calculates its position and determines if it falls outside the pre-defined stability zone (Dead Zone).If correction is required, the Python script transmits precise coordinate data via serial communication to the Arduino microcontroller. The Arduino, running its dedicated firmware (face_rec_dec9.ino), interprets this data and commands two servo motors to adjust the camera's pan and tilt angles, ensuring the subject's face is brought back to the center of the frame. This repository includes the Python and Arduino source files, a detailed Lab Report, and a demonstration video showcasing the real-time tracking performance.
