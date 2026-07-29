@@ -1,8 +1,8 @@
 # Analog Amplifier Design Project in PSpice
 made in collabrtion with Juan Shehady https://www.linkedin.com/in/juan-shehady-01687425a/
 
-A final project for the "Analog Electronic Circuits" course (05123513)[cite: 2]. 
-This project involves the design, mathematical analysis, and simulation of a three-stage NMOS-based amplifier circuit using OrCAD PSpice[cite: 2].
+A final project for the "Analog Electronic Circuits" course (05123513) 
+This project involves the design, mathematical analysis, and simulation of a three-stage NMOS-based amplifier circuit using OrCAD PSpice
 
 
 
